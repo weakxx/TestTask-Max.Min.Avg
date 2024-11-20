@@ -1,4 +1,6 @@
-﻿namespace Max.Min.Avg;
+﻿using System;
+
+namespace Max.Min.Avg;
 
 class Program
 {
